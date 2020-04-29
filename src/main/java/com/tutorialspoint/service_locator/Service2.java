@@ -1,4 +1,4 @@
-package com.tutorialspoint.servicelocator;
+package com.tutorialspoint.service_locator;
 
 public class Service2 implements Service {
     public void execute(){

@@ -1,4 +1,4 @@
-package com.tutorialspoint.interceptingfilter;
+package com.tutorialspoint.intercepting_filter;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.tutorialspoint.servicelocator;
+package com.tutorialspoint.service_locator;
 
 public class ServiceLocator {
     private static Cache cache;

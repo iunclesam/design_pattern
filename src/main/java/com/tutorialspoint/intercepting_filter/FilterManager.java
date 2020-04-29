@@ -1,4 +1,4 @@
-package com.tutorialspoint.interceptingfilter;
+package com.tutorialspoint.intercepting_filter;
 
 public class FilterManager {
     FilterChain filterChain;

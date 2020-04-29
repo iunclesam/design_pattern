@@ -1,4 +1,4 @@
-package com.tutorialspoint.servicelocator;
+package com.tutorialspoint.service_locator;
 
 import java.util.ArrayList;
 import java.util.List;

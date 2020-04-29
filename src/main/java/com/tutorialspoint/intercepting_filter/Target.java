@@ -1,4 +1,4 @@
-package com.tutorialspoint.interceptingfilter;
+package com.tutorialspoint.intercepting_filter;
 
 public class Target {
     public void execute(String request) {
